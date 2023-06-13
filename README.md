@@ -14,77 +14,75 @@ The DataFrame has 17,125 rows and 107 columns. It contains a combination of nume
 
 Each column name is the abbreviation of one 
 
-**ID:** Unique identifier for each player in the FIFA 21 database.
-**Name:** Player's name.
-**Age:** Player's age.
-**OVA:** Overall rating of the player in the FIFA 21 game.
-**Nationality:** Player's nationality.
-**Club:** Club to which the player belongs in the FIFA 21 game.
-**BOV:** Best overall rating of the player in the FIFA 21 game.
-**BP:** Best position preferred by the player on the field.
-**Position:** Player's primary position on the field.
-**Player Photo:** Photograph of the player.
-**Club Logo:** Logo of the club to which the player belongs.
-**Flag Photo:** Photograph of the player's national flag.
-**POT:** Player's maximum potential rating in the FIFA 21 game.
-**Team & Contract:** Player's current team and contract details.
-**Height:** Player's height.
-**Weight:** Player's weight.
-**Foot:** Player's dominant foot (Right or Left).
-**Growth:** Potential growth of the player.
-**Joined:** Date when the player joined the current club.
-**Loan Date End:** Date when the player's loan ends (if applicable).
-**Value:** Market value of the player.
-**Wage:** Player's salary.
-**Release Clause:** Contract release clause of the player.
-**Contract:** Remaining duration of the player's contract.
-**Attacking:** Statistics related to the player's attacking abilities.
-**Defending:** Statistics related to the player's defending abilities.
-**Goalkeeping:** Statistics related to the player's goalkeeping abilities.
-**Total Stats:** Total statistics of the player.
-**Base Stats:** Base statistics of the player.
-**W/F:** Weak foot/strong foot rating.
-**SM:** Skill Moves rating (special movement skills).
-**A/W:** Attack Work Rate.
-**D/W:** Defense Work Rate.
-**IR:** International Reputation index.
-**PAC:** Pace rating of the player.
-**SHO:** Shooting ability rating of the player.
-**PAS:** Passing ability rating of the player.
-**DRI:** Dribbling ability rating of the player.
-**DEF:** Defensive ability rating of the player.
-**PHY:** Physicality rating of the player.
-**Hits:** Popularity or relevance rating of the player in the FIFA 21 game.
-**LS:** Player's position on the field (Left Striker).
-**ST:** Player's position on the field (Striker).
-**RS:** Player's position on the field (Right Striker).
-**LW:** Player's position on the field (Left Winger).
-**LF:** Player's position on the field (Left Forward).
-**CF:** Player's position on the field (Center Forward).
-**RF:** Player's position on the field (Right Forward).
-**RW:** Player's position on the field (Right Winger).
-**LAM:** Player's position on the field (Left Attacking Midfielder).
-**CAM:** Player's position on the field (Center Attacking Midfielder).
-**RAM:** Player's position on the field (Right Attacking Midfielder).
-**LM:** Player's position on the field (Left Midfielder).
-**LCM:** Player's position on the field (Left Center Midfielder).
-**CM:** Player's position on the field (Center Midfielder).
-**RCM:** Player's position on the field (Right Center Midfielder).
-**RM:** Player's position on the field (Right Midfielder).
-**LWB:** Player's position on the field (Left Wing Back).
-**LDM:** Player's position on the field (Left Defensive Midfielder).
-**CDM:** Player's position on the field (Center Defensive Midfielder).
-**RDM:** Player's position on the field (Right Defensive
-
- Midfielder).
-**RWB:** Player's position on the field (Right Wing Back).
-**LB:** Player's position on the field (Left Back).
-**LCB:** Player's position on the field (Left Center Back).
-**CB:** Player's position on the field (Center Back).
-**RCB:** Player's position on the field (Right Center Back).
-**RB:** Player's position on the field (Right Back).
-**GK:** Player's position on the field (Goalkeeper).
-**Gender:** Player's gender (Male or Female).
+- **ID:** Unique identifier for each player in the FIFA 21 database.
+- **Name:** Player's name.
+- **Age:** Player's age.
+- **OVA:** Overall rating of the player in the FIFA 21 game.
+- **Nationality:** Player's nationality.
+- **Club:** Club to which the player belongs in the FIFA 21 game.
+- **BOV:** Best overall rating of the player in the FIFA 21 game.
+- **BP:** Best position preferred by the player on the field.
+- **Position:** Player's primary position on the field.
+- **Player Photo:** Photograph of the player.
+- **Club Logo:** Logo of the club to which the player belongs.
+- **Flag Photo:** Photograph of the player's national flag.
+- **POT:** Player's maximum potential rating in the FIFA 21 game.
+- **Team & Contract:** Player's current team and contract details.
+- **Height:** Player's height.
+- **Weight:** Player's weight.
+- **Foot:** Player's dominant foot (Right or Left).
+- **Growth:** Potential growth of the player.
+- **Joined:** Date when the player joined the current club.
+- **Loan Date End:** Date when the player's loan ends (if applicable).
+- **Value:** Market value of the player.
+- **Wage:** Player's salary.
+- **Release Clause:** Contract release clause of the player.
+- **Contract:** Remaining duration of the player's contract.
+- **Attacking:** Statistics related to the player's attacking abilities.
+- **Defending:** Statistics related to the player's defending abilities.
+- **Goalkeeping:** Statistics related to the player's goalkeeping abilities.
+- **Total Stats:** Total statistics of the player.
+- **Base Stats:** Base statistics of the player.
+- **W/F:** Weak foot/strong foot rating.
+- **SM:** Skill Moves rating (special movement skills).
+- **A/W:** Attack Work Rate.
+- **D/W:** Defense Work Rate.
+- **IR:** International Reputation index.
+- **PAC:** Pace rating of the player.
+- **SHO:** Shooting ability rating of the player.
+- **PAS:** Passing ability rating of the player.
+- **DRI:** Dribbling ability rating of the player.
+- **DEF:** Defensive ability rating of the player.
+- **PHY:** Physicality rating of the player.
+- **Hits:** Popularity or relevance rating of the player in the FIFA 21 game.
+- **LS:** Player's position on the field (Left Striker).
+- **ST:** Player's position on the field (Striker).
+- **RS:** Player's position on the field (Right Striker).
+- **LW:** Player's position on the field (Left Winger).
+- **LF:** Player's position on the field (Left Forward).
+- **CF:** Player's position on the field (Center Forward).
+- **RF:** Player's position on the field (Right Forward).
+- **RW:** Player's position on the field (Right Winger).
+- **LAM:** Player's position on the field (Left Attacking Midfielder).
+- **CAM:** Player's position on the field (Center Attacking Midfielder).
+- **RAM:** Player's position on the field (Right Attacking Midfielder).
+- **LM:** Player's position on the field (Left Midfielder).
+- **LCM:** Player's position on the field (Left Center Midfielder).
+- **CM:** Player's position on the field (Center Midfielder).
+- **RCM:** Player's position on the field (Right Center Midfielder).
+- **RM:** Player's position on the field (Right Midfielder).
+- **LWB:** Player's position on the field (Left Wing Back).
+- **LDM:** Player's position on the field (Left Defensive Midfielder).
+- **CDM:** Player's position on the field (Center Defensive Midfielder).
+- **RDM:** Player's position on the field (Right Defensive Midfielder).
+- **RWB:** Player's position on the field (Right Wing Back).
+- **LB:** Player's position on the field (Left Back).
+- **LCB:** Player's position on the field (Left Center Back).
+- **CB:** Player's position on the field (Center Back).
+- **RCB:** Player's position on the field (Right Center Back).
+- **RB:** Player's position on the field (Right Back).
+- **GK:** Player's position on the field (Goalkeeper).
+- **Gender:** Player's gender (Male or Female).
 
 ## 3. Data cleaning
 
@@ -96,11 +94,58 @@ Each column name is the abbreviation of one
 - Data type conversion: The code performs data type conversions for certain columns. It removes the Euro symbol '€' from the 'Value', 'Wage', and 'Release Clause' columns using the str.replace() function. It replaces 'M' with 'e6' and 'K' with 'e3' to represent millions and thousands respectively. Then it converts the columns to float data type using the astype() function.
 
 ## 4. Exploratory Data Analysis (EDA) Visualizations
+
 - Market value distribution
 <img src="./images/market_value_distribution.png" width=600>
 - Correlation matrix
 <img src="./images/correlation_matrix.png" width=600>
 - Most influential features in market value
 <img src="./images/influential_features.png" width=600>
+
+
+## 5. Machine Learning: Prediction of Player Market Value using Linear Regression
+
+- Features and Target Variable Selection:
+
+    - The selected features for the model are 'Age', 'OVA' (Overall Rating), 'POT' (Potential), 'BOV' (Best Overall Rating), 'Release Clause', and 'Wage'.
+    - The target variable is 'Value', representing the market value of players
+
+- Data Splitting:
+
+    - The dataset is split into training and testing sets using an 80:20 ratio.
+    - The random_state parameter is set to 42 for reproducibility.
+
+- Linear Regression Model Training:
+
+    - A linear regression model is created and trained using the training data.
+    - The LinearRegression() function is used to instantiate the model.
+    - The fit() function is then called to train the model using the training data.
+
+- Prediction and Evaluation:
+
+    - Predictions are made on the test set using the trained model.
+    - The mean squared error (MSE) and coefficient of determination (R^2) are calculated to evaluate the model's performance.
+
+- Visualization:
+
+    - A scatter plot is created to visualize the actual values versus the predicted values.
+    - The plot includes a red dashed line representing the ideal scenario where the actual and predicted values are identical.
+<img src="./images/predicted_value.png" width=600>
+
+## 6. Analysis and Visualization of Football Players' Data
+
+- Distribution of players by nationality
+<img src="./images/distribution_by_nationality.png" width=600>
+
+- Age vs. Value of players
+<img src="./images/agevsvalue.png" width=600>
+
+- Comparison of Skills between Players from Different Clubs
+<img src="./images/agevsvalue.png" width=600>
+
+- Comparison of Speed and Overall Rating
+<img src="./images/speedvsova.png" width=600>
+
+
 
 
