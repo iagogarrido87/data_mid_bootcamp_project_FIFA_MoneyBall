@@ -147,5 +147,15 @@ Each column name is the abbreviation of one
 <img src="./images/speedvsova.png" width=600>
 
 
+## conclusions:
+
+
+- Most influential features on market value: According to the correlation matrix, the most influential features on a player's market value are age, current overall rating (OVA), potential (POT), peak overall rating (BOV), and release clause.
+
+- Linear regression model: A linear regression model has been used to predict the market value of players. The model shows a good fit, with a coefficient of determination (R^2) of approximately 0.962, indicating that 96.2% of the variability in market value can be explained by the features used in the model.
+
+- Prediction accuracy: The mean squared error (MSE) is calculated to be approximately 1.22 billion euros. While this may seem high in absolute terms, it is important to consider the range of player market values, which span from a few thousand euros to over 100 million euros. In that context, the MSE indicates a reasonable level of prediction accuracy.
+
+- In summary, we can conclude that age, current overall rating, potential, peak overall rating, and release clause are important factors in determining the market value of a football player. The linear regression model used provides good predictions, although there is room for improving accuracy
 
 
